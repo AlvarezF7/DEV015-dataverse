@@ -63,6 +63,6 @@
     un set de tatos acotado (fakeData) con la finalidad de revisar el correcto funcionamiento del codigo. 
 
 ## 7. Vista del Proyecto
-[Link aplicación](https://github.com/AlvarezF7/DEV015-dataverse/tree/develop/src))
+[Link aplicación](https://github.com/AlvarezF7/DEV015-dataverse/tree/develop/src)
   
  
