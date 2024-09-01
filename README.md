@@ -3,12 +3,13 @@
 ## Indice
 
 * [1. Descripción ](#1-descripción)
-* [2. Objetivo ](#4-Objetivo)
-* [3. Historias de Usuario](#2-Historias-de-Usuario)
+* [2. Objetivo ](#2-Objetivo)
+* [3. Historias de Usuario](#3-Historias-de-Usuario)
 * [4. Prototipos de baja fidelidad ](#4-prototipos-de-baja-fidelidad)
-* [5. Prototipos de alta fidelidad ](#5-prototipos-de-baja-fidelidad)
-* [6. Aspectos Técnicos ](#5-aspectos-técnicos)
-* [5. Vista del proyecto ](#4-vista-del-proyect)
+* [5. Prototipos de alta fidelidad ](#5-prototipos-de-alta-fidelidad)
+* [6. Aspectos Técnicos ](#6-aspectos-técnicos)
+* [7. Colaboradoras ](#7-colaboradoras)
+* [8. Vista del proyecto ](#8-vista-del-proyect)
 
 
   ***
@@ -60,9 +61,13 @@
   * DecadasData:Esta función es la encargada de calcular el porcentaje de bandas creadas en la decadas de los
     noventa, para ello utiliza el metodo map y reduce.
   * para cada función mencionada con anterioridad se desarrollaron pruebas unitarias, estas se corrieron sobre
-    un set de tatos acotado (fakeData) con la finalidad de revisar el correcto funcionamiento del codigo. 
-
-## 7. Vista del Proyecto
-[Link aplicación](https://alvarezf7.github.io/DEV015-dataverse/))
+    un set de tatos acotado (fakeData) con la finalidad de revisar el correcto funcionamiento del codigo.
+    
+  ## 7. Colaboradoras
+ 
+  * (https://github.com/AlvarezF7)
+  * (https://github.com/catabetancur0719)   
+  ## 8. Vista del Proyecto
+  [Link aplicación](https://alvarezf7.github.io/DEV015-dataverse/)
   
  
